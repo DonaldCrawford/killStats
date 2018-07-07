@@ -1,6 +1,8 @@
 History of killStats
 Date: 7/7/18
 
+This plugin is for the game MineCraft. This code is very old and not guarunteed to work with the current version of MineCraft.
+
 I created this plugin back in December of 2012. To be exact, my original project folder was created on 12/18/12 4:28pm. What once started
 started out as a small hobby project turned into a big plugin that was being used by many many servers. I spent a lot of time working with
 this code and trying to make it better as time went on. Real life hit me in the face around may of 2015 and work on this project slowly 
